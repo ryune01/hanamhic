@@ -7,7 +7,7 @@ main:
   - title: "사업부 소개"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "고객 지원"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /something/
   - title: "Contact"
     url: /contact/
     
