@@ -1,7 +1,28 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "회사 소개"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "사업 소개"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "사업부 소개"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "고객 지원"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Contact"
+    url: /contact/
+    
+#만들어는 놓는데, 네비게이션 쓰는 것 보다 [제목 자동 정리하는 기능] 들어간 페이지 넣는게 나을 듯
+intro:
+  - title: "CEO 인사말"
+    url: 
+  - title: "경영이념 및 목표"
+    url: 
+  - title: "회사 개요"
+    url: 
+  - title: "CEO 인사말"
+    url: 
+  - title: "CEO 인사말"
+    url: 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
