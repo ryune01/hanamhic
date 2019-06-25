@@ -15,8 +15,8 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Hanam Heavey Industry"
+locale                   : "ko-KR"
+title                    : "Hanam heavy Industry"
 title_separator          : "-"
 name                     : "hanamhic"
 description              : "website of hanam heavy industry."
@@ -159,7 +159,9 @@ include:
   - .htaccess
   - _pages
   - _docs
-  - _intro
+  - _about
+  - _business
+  - _department
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -314,10 +316,10 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _intro
+  # about
   - scope:
       path: ""
-      type: intro
+      type: about
     values:
       layout: single
       read_time: false
@@ -325,12 +327,41 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "intro"
-        
+        nav: "about"
+  # business
+  - scope:
+      path: ""
+      type: business
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "about"
+  # department
+  - scope:
+      path: ""
+      type: department
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "about"
 collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  intro:
+  about:
+    output: true
+    permalink: /:collection/:path/
+  business:
+    output: true
+    permalink: /:collection/:path/
+  department:
     output: true
     permalink: /:collection/:path/
