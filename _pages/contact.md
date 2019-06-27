@@ -37,9 +37,8 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
 
 ## 찾아오시는 길
-  ---
-  광주본사 사무실
-  
+
+  광주본사 사무실  
 <div class="mobile_map">
   <!-- * 카카오맵 - 지도퍼가기 -->
   <!-- 1. 지도 노드 -->
@@ -70,7 +69,6 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 
   ---
   울산지사
-
 <div class="mobile_map">
   <!-- * 카카오맵 - 지도퍼가기 -->
   <!-- 1. 지도 노드 -->
