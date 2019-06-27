@@ -38,18 +38,13 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
 
 ## 찾아오시는 길
-<div class="mobile_map">
-  <!-- * 카카오맵 - 지도퍼가기 -->
-  <!-- 1. 지도 노드 -->
   ---
   광주본사 사무실
   
+<div class="mobile_map">
+  <!-- * 카카오맵 - 지도퍼가기 -->
+  <!-- 1. 지도 노드 -->
   <div id="daumRoughmapContainer1561592650522" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-  
-  ---
-  울산지사
-  
-  <div id="daumRoughmapContainer1561613678968" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 
   <!--
     2. 설치 스크립트
@@ -64,6 +59,29 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
     new daum.roughmap.Lander({
       "timestamp" : "1561592650522",
       "key" : "u48k",
+      "mapWidth" : "640",
+      "mapHeight" : "360"
+    }).render();
+  </script>
+
+  <style>
+  .mobile_map .root_daum_roughmap {width:100%!important;}
+  </style>
+</div>
+
+  ---
+  울산지사
+
+<div class="mobile_map">
+  <!-- * 카카오맵 - 지도퍼가기 -->
+  <!-- 1. 지도 노드 -->
+  <div id="daumRoughmapContainer1561613678968" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+  <!-- 3. 실행 스크립트 -->
+  <script charset="UTF-8">
+    new daum.roughmap.Lander({
+      "timestamp" : "1561613678968",
+      "key" : "u4g7",
       "mapWidth" : "640",
       "mapHeight" : "360"
     }).render();
