@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 layout: single
+class: wide
 permalink: /contact/
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 #header:
@@ -23,8 +24,6 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-toc: true
-toc_sticky: true
 ---
 
 ## Contact us by following address
