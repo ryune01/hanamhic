@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 layout: single
-class: wide
+classes: wide
 permalink: /contact/
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 #header:
