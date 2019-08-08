@@ -4,6 +4,13 @@ excerpt: "How the theme is organized and what all of the files are for."
 last_modified_at: 2018-03-20T15:19:22-04:00
 ---
 
+주소 : 울산광역시 북구 매곡산업1길 25(매곡동 354-5)  
+전화 : **[052-292-6066](tel:062-955-2244)**  
+팩스 : **[052-292-5066](tel:062-955-3367)**  
+부지 : 대지 2200평 건평 1500평  
+{: .notice--info}
+
+
 Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
 
 **Please note:** If you installed Minimal Mistakes via the Ruby Gem method, theme files like `_layouts`, `_includes`, `_sass`, and `/assets/` will be missing. This is normal as they are bundled with the [`minimal-mistakes-jekyll`](https://rubygems.org/gems/minimal-mistakes-jekyll) Ruby gem.

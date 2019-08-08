@@ -1,57 +1,25 @@
 ---
 title: "경영 이념"
 excerpt: "How the theme is organized and what all of the files are for."
-last_modified_at: 2018-03-20T15:19:22-04:00
 ---
 
-Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
+---
+**하남중공업**은 지치지 않는 **열정**, 젊은 이들의 **노력**  
+도전적인 정신으로 **꿈을 현실으로 만들어 가는 기업**입니다.
+---
 
-**Please note:** If you installed Minimal Mistakes via the Ruby Gem method, theme files like `_layouts`, `_includes`, `_sass`, and `/assets/` will be missing. This is normal as they are bundled with the [`minimal-mistakes-jekyll`](https://rubygems.org/gems/minimal-mistakes-jekyll) Ruby gem.
-{: .notice--info}
+---
 
-```bash
-minimal-mistakes
-├── _data                      # data files for customizing the theme
-|  ├── navigation.yml          # main navigation links
-|  └── ui-text.yml             # text used throughout the theme's UI
-├── _includes
-|  ├── analytics-providers     # snippets for analytics (Google and custom)
-|  ├── comments-providers      # snippets for comments
-|  ├── footer                  # custom snippets to add to site footer
-|  ├── head                    # custom snippets to add to site head
-|  ├── feature_row             # feature row helper
-|  ├── gallery                 # image gallery helper
-|  ├── group-by-array          # group by array helper for archives
-|  ├── nav_list                # navigation list helper
-|  ├── toc                     # table of contents helper
-|  └── ...
-├── _layouts
-|  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
-|  ├── archive.html            # archive base
-|  ├── categories.html         # archive listing posts grouped by category
-|  ├── category.html           # archive listing posts grouped by specific category
-|  ├── collection.html         # archive listing documents in a specific collection
-|  ├── compress.html           # compresses HTML in pure Liquid
-|  ├── default.html            # base for all other layouts
-|  ├── home.html               # home page
-|  ├── posts.html              # archive listing posts grouped by year
-|  ├── search.html             # search page
-|  ├── single.html             # single document (post/page/etc)
-|  ├── tag.html                # archive listing posts grouped by specific tag
-|  ├── tags.html               # archive listing posts grouped by tags
-|  └── splash.html             # splash page
-├── _sass                      # SCSS partials
-├── assets
-|  ├── css
-|  |  └── main.scss            # main stylesheet, loads SCSS partials from _sass
-|  ├── images                  # image assets for posts/pages/collections/etc.
-|  ├── js
-|  |  ├── plugins              # jQuery plugins
-|  |  ├── vendor               # vendor scripts
-|  |  ├── _main.js             # plugin settings and other scripts to load after jQuery
-|  |  └── main.min.js          # optimized and concatenated script file loaded before </body>
-├── _config.yml                # site configuration
-├── Gemfile                    # gem file dependencies
-├── index.html                 # paginated home page showing recent posts
-└── package.json               # NPM build scripts
-```
+{% include figure image_path="/assets/images/hanam_aim.jpg"%}
+
+### 업무 목표
+---
+1. 근로자의 권익을 최우선으로 생각하는 가치 경영
+2. 철저한 납기 준수 및 엄격한 품질 관리
+3. 고정밀, 고품격 제품 생산
+
+### 기술 목표
+---
+1. 끊임 없는 기술력 확보
+2. 글로벌 시대에 발맞추어 나갈 수 있는 실력인재 양성
+3. 유능한 인재의 노하우를 바탕으로 점차 범위를 향상시킬 수 있는 연구진 육성

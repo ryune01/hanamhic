@@ -45,15 +45,15 @@ about:
 
 # business introduction links
 business:
-  - title: "사업 소개"
+  - title: "주요 사업 내용"
     children:
-    - title: "원자재 판매 가공사업"
+    - title: "원자재 절단, 가공 및 판매"
       url : /business/materials/
-    - title: "금형가공사업"
+    - title: "금형 가공"
       url: /business/mold/
-    - title: "LCD 챔버 가공사업"
+    - title: "LCD 진공 챔버 가공"
       url: /business/chamber/
-    - title: "조선플랜트 가공사업"
+    - title: "ENGINE BLOCK 가공"
       url: /business/plant/
 
 # department introduction links

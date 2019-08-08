@@ -7,38 +7,27 @@ excerpt: "Baz Boom design system including logo mark, website design, and brandi
 #header:
 #  image: /assets/images/unsplash-gallery-image-1.jpg
 #  teaser: assets/images/unsplash-gallery-image-1-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
+
 ---
 
-## Contact us by following address
-### 연락처1
-### 연락처2
-### 연락처3
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+---
+# 아래 연락처로 하남중공업으로 연락해 주세요.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
-
-## 찾아오시는 길
-
-  광주본사 사무실  
+## 광주 본사 사무실
+### 유선 연락처
+전화 : **[062-952-2244](tel:062-955-2244)**  
+팩스 : **[062-952-3367](tel:062-955-3367)**  
+{: .notice--info}
+---
+### 찾아오시는 길
+>광주광역시 광산구 진곡산단중앙로 114번길 (지티엠 주식회사 건물 안)
 <div class="mobile_map">
   <!-- * 카카오맵 - 지도퍼가기 -->
   <!-- 1. 지도 노드 -->
@@ -50,15 +39,13 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
   -->
   <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
 
-
-
   <!-- 3. 실행 스크립트 -->
   <script charset="UTF-8">
     new daum.roughmap.Lander({
       "timestamp" : "1561592650522",
       "key" : "u48k",
       "mapWidth" : "640",
-      "mapHeight" : "360"
+      "mapHeight" : "420"
     }).render();
   </script>
 
@@ -67,8 +54,14 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
   </style>
 </div>
 
-  ---
-  울산지사
+## 울산 지사
+### 유선 연락처
+전화 : **[052-292-6066](tel:052-292-6066)**  
+팩스 : **[052-292-5066](tel:052-292-5066)**  
+{: .notice--info}
+---
+### 찾아오시는 길
+>울산광역시 북구 매곡산업1길 25 (매곡동 354-5)
 <div class="mobile_map">
   <!-- * 카카오맵 - 지도퍼가기 -->
   <!-- 1. 지도 노드 -->
@@ -80,7 +73,7 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
       "timestamp" : "1561613678968",
       "key" : "u4g7",
       "mapWidth" : "640",
-      "mapHeight" : "360"
+      "mapHeight" : "420"
     }).render();
   </script>
 
@@ -89,18 +82,18 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
   </style>
 </div>
 
-## 메일 전송
-아래 폼으로 메일을 작성해 주시거나 **<ha9298@hanmail.net>**로 직접 전송해주세요.
-
+## 온라인
+메일 주소 : **<ha9298@hanmail.net>**
+>아래 폼을 통해서 직접 메일을 보낼 수도 있습니다.
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
-    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="작성자 이름" /></div>
+    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="작성자 메일 주소" /></div>
     <div class="12u$">
       <textarea name="message" placeholder="Message"></textarea>
     </div>
     <div class="1u$">
-      <input type="submit" value="Send Message" />
+      <input type="submit" value="메일 전송" />
     </div>
   </div>
 </form>
