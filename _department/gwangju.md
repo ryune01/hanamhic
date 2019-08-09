@@ -25,7 +25,7 @@ gallery_feature:
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: /assets/images/mm-customizable-feature.png
-    btn_class: "btn--light-outline"
+    btn_class: "btn"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
@@ -63,12 +63,12 @@ gallery_feature:
 | 4. 포항제철 TAP HOLE EXCAVATOR BIT 제작
 
 ### 원자재 절단
-1. SS41 : 9T ~ 200T 400Ton 보유
+> 1. SS41 : 9T ~ 200T 400Ton 보유
 2. SM45C : 9T ~ 200T 400Ton 보유
 3. 특수강 : STD-11, 61, KP4, 4M HMD-1 등등 보유
 
 ### 원자재 가공
-1. 금형 자재(SS41, SM45C, 특수강 외) 로타리 연마, 평면 연마 가공
+> 1. 금형 자재(SS41, SM45C, 특수강 외) 로타리 연마, 평면 연마 가공
 2. DIE SET 가공 및 조립
 3. 화천기공 기계 BASE 6종 가공
 4. 포항제철 TAP HOLE EXCAVATOR BIT 제작

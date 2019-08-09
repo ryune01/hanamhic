@@ -13,7 +13,6 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 ---
-
 {% include figure image_path="/assets/images/raw_materials_plates.jpg" alt="this is a placeholder image" %}
 
 금형 가공 사업은 하남중공업의 전신인 **하남 연마공업**부터 시작되어 지금까지  ***20여 년이 넘는 기술적 노하우***를 바탕으로 대형, 소형 가리지 않고 취급하고 있습니다.  
