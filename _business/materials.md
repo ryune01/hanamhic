@@ -6,31 +6,31 @@ title: "원자재 가공 및 판매 사업"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/gallery_materials_1.jpg
-    image_path: /assets/images/gallery_materials_1.jpg
+    image_path: /assets/images/small/gallery_materials_1.jpg
     alt: "gallery_materials_1"
   - url: /assets/images/gallery_materials_2.jpg
-    image_path: /assets/images/gallery_materials_2.jpg
+    image_path: /assets/images/small/gallery_materials_2.jpg
     alt: "gallery_materials_2"
   - url: /assets/images/gallery_materials_3.jpg
-    image_path: /assets/images/gallery_materials_3.jpg
+    image_path: /assets/images/small/gallery_materials_3.jpg
     alt: "gallery_materials_3"
   - url: /assets/images/gallery_materials_4.jpg
-    image_path: /assets/images/gallery_materials_4.jpg
+    image_path: /assets/images/small/gallery_materials_4.jpg
     alt: "gallery_materials_4"
   - url: /assets/images/gallery_materials_5.jpg
-    image_path: /assets/images/gallery_materials_5.jpg
+    image_path: /assets/images/small/gallery_materials_5.jpg
     alt: "gallery_materials_5"
   - url: /assets/images/gallery_materials_6.jpg
-    image_path: /assets/images/gallery_materials_6.jpg
+    image_path: /assets/images/small/gallery_materials_6.jpg
     alt: "gallery_materials_6"
   - url: /assets/images/gallery_materials_7.jpg
-    image_path: /assets/images/gallery_materials_7.jpg
+    image_path: /assets/images/small/gallery_materials_7.jpg
     alt: "gallery_materials_7"
   - url: /assets/images/gallery_materials_8.jpg
-    image_path: /assets/images/gallery_materials_8.jpg
+    image_path: /assets/images/small/gallery_materials_8.jpg
     alt: "gallery_materials_8"
   - url: /assets/images/gallery_materials_9.jpg
-    image_path: /assets/images/gallery_materials_9.jpg
+    image_path: /assets/images/small/gallery_materials_9.jpg
     alt: "gallery_materials_9"
 ---
 {% include figure image_path="/assets/images/cover_materials.jpg" alt="this is a placeholder image" %}

@@ -4,7 +4,7 @@ classes: wide
 title: "광주 본사"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 gallery_feature_materials:
-  - image_path: /assets/images/gallery_gwangju_machine_materials_1.jpg
+  - image_path: /assets/images/small/gallery_gwangju_machine_materials_1.jpg
     alt: "라디알 드릴머신(소)"
     title: "라디알 드릴머신(소)"
     excerpt: "가공범위 : 1750 * 3000<br>수량 : 1<br>제조회사 : (주)봉신"

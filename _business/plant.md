@@ -4,22 +4,22 @@ title: "조선 플랜트 가공 사업"
 excerpt: "How the theme is organized and what all of the files are for."
 layouts_gallery:
   - url: /assets/images/gallery_plant_1.jpg
-    image_path: /assets/images/gallery_plant_1.jpg
+    image_path: /assets/images/small/gallery_plant_1.jpg
     alt: "gallery_plant_1"
   - url: /assets/images/gallery_plant_2.jpg
-    image_path: /assets/images/gallery_plant_2.jpg
+    image_path: /assets/images/small/gallery_plant_2.jpg
     alt: "gallery_plant_2"
   - url: /assets/images/gallery_plant_3.jpg
-    image_path: /assets/images/gallery_plant_3.jpg
+    image_path: /assets/images/small/gallery_plant_3.jpg
     alt: "gallery_plant_3"
   - url: /assets/images/gallery_plant_4.jpg
-    image_path: /assets/images/gallery_plant_4.jpg
+    image_path: /assets/images/small/gallery_plant_4.jpg
     alt: "gallery_plant_4"
   - url: /assets/images/gallery_plant_5.jpg
-    image_path: /assets/images/gallery_plant_5.jpg
+    image_path: /assets/images/small/gallery_plant_5.jpg
     alt: "gallery_plant_5"
   - url: /assets/images/gallery_plant_6.jpg
-    image_path: /assets/images/gallery_plant_6.jpg
+    image_path: /assets/images/small/gallery_plant_6.jpg
     alt: "gallery_plant_6"
 ---
 

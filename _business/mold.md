@@ -4,22 +4,22 @@ title: "금형 가공 사업"
 excerpt: "How the theme is organized and what all of the files are for."
 layouts_gallery:
   - url: /assets/images/gallery_mold_1.jpg
-    image_path: /assets/images/gallery_mold_1.jpg
+    image_path: /assets/images/small/gallery_mold_1.jpg
     alt: "gallery_mold_1"
   - url: /assets/images/gallery_mold_2.jpg
-    image_path: /assets/images/gallery_mold_2.jpg
+    image_path: /assets/images/small/gallery_mold_2.jpg
     alt: "gallery_mold_2"
   - url: /assets/images/gallery_mold_3.jpg
-    image_path: /assets/images/gallery_mold_3.jpg
+    image_path: /assets/images/small/gallery_mold_3.jpg
     alt: "gallery_mold_3"
   - url: /assets/images/gallery_mold_4.jpg
-    image_path: /assets/images/gallery_mold_4.jpg
+    image_path: /assets/images/small/gallery_mold_4.jpg
     alt: "gallery_mold_4"
   - url: /assets/images/gallery_mold_5.jpg
-    image_path: /assets/images/gallery_mold_5.jpg
+    image_path: /assets/images/small/gallery_mold_5.jpg
     alt: "gallery_mold_5"
   - url: /assets/images/gallery_mold_6.jpg
-    image_path: /assets/images/gallery_mold_6.jpg
+    image_path: /assets/images/small/gallery_mold_6.jpg
     alt: "gallery_mold_6"
 ---
 {% include figure image_path="/assets/images/cover_mold.jpg" alt="this is a placeholder image" %}
