@@ -3,33 +3,33 @@ classes: wide
 title: "울산 지사"
 excerpt: "How the theme is organized and what all of the files are for."
 gallery_feature:
-  - image_path: /assets/images/gallery_ulsan_machines_1.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_1.jpg
     alt: "HF-6M 5면가공기"
     title: "HF-6M 5면가공기"
     excerpt: "가공범위 : 6000*3500*3500<br>수량 : 1<br>제조회사 : 신일본기계"
     url: /assets/images/gallery_ulsan_machines_1.jpg
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/gallery_ulsan_machines_2.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_2.jpg
     alt: "HF-10M 5면가공기"
     title: "HF-10M 5면가공기"
     excerpt: "가공범위 : 14000*5800*5000<br>수량 : 1<br>제조회사 : 신일본기계"
     url: /assets/images/gallery_ulsan_machines_2.jpg
-  - image_path: /assets/images/gallery_ulsan_machines_3.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_3.jpg
     alt: "라디알 드릴머신(대)"
     title: "라디알 드릴머신(대)"
     excerpt: "가공범위 : 2000 * 4000<br>수량 : 1<br>제조회사 : (주)봉신"
     url: /assets/images/gallery_ulsan_machines_3.jpg
-  - image_path: /assets/images/gallery_ulsan_machines_4.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_4.jpg
     alt: "BF-D160"
     title: "BF-D160"
     excerpt: "가공범위 : 10000*4000*1700<br>수량 : 1<br>제조회사 : SCHIESS"
     url: /assets/images/gallery_ulsan_machines_4.jpg
-  - image_path: /assets/images/gallery_ulsan_machines_5.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_5.jpg
     alt: "XH-2640"
     title: "XH-2640"
     excerpt: "가공범위 : 24000*4000*4200<br>수량 : 1<br>제조회사 : SCHIESS"
     url: /assets/images/gallery_ulsan_machines_5.jpg
-  - image_path: /assets/images/gallery_ulsan_machines_6.jpg
+  - image_path: /assets/images/small/gallery_ulsan_machines_6.jpg
     alt: "BF-INSSE"
     title: "BF-INSSE"
     excerpt: "가공범위 : 10000*4000*1700<br>수량 : 1<br>제조회사 : SCHIESS"
