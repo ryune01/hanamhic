@@ -13,7 +13,7 @@ gallery_feature:
     alt: "HF-10M 5면가공기"
     title: "HF-10M 5면가공기"
     excerpt: "가공범위 : 14000*5800*5000<br>수량 : 1<br>제조회사 : 신일본기계"
-    url: /assets/images/gallery_ulsan_machines_2.png
+    url: /assets/images/gallery_ulsan_machines_2.jpg
   - image_path: /assets/images/gallery_ulsan_machines_3.jpg
     alt: "FBM 보링M/C"
     title: "FBM 보링M/C"
