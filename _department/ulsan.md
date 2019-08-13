@@ -6,18 +6,18 @@ gallery_feature:
   - image_path: /assets/images/gallery_ulsan_machines_1.jpg
     alt: "HF-6M 5면가공기"
     title: "HF-6M 5면가공기"
-    excerpt: "가공범위 : 6000*3500*3500<br>수량 : 1<br>제조회사 : SNK"
+    excerpt: "가공범위 : 6000*3500*3500<br>수량 : 1<br>제조회사 : 신일본기계"
     url: /assets/images/gallery_ulsan_machines_1.jpg
     btn_class: "btn--light-outline"
   - image_path: /assets/images/gallery_ulsan_machines_2.jpg
     alt: "HF-10M 5면가공기"
     title: "HF-10M 5면가공기"
-    excerpt: "가공범위 : 14000*5800*5000<br>수량 : 1<br>제조회사 : SNK"
+    excerpt: "가공범위 : 14000*5800*5000<br>수량 : 1<br>제조회사 : 신일본기계"
     url: /assets/images/gallery_ulsan_machines_2.png
   - image_path: /assets/images/gallery_ulsan_machines_3.jpg
-    alt: "라디알 드릴머신(대)"
-    title: "라디알 드릴머신(대)"
-    excerpt: "가공범위 : 2000 * 4000<br>수량 : 1<br>제조회사 : (주)봉신"
+    alt: "FBM 보링M/C"
+    title: "FBM 보링M/C"
+    excerpt: "가공범위 : 4500 * 12000<br>수량 : 1<br>제조회사 : MITSUBISHI"
     url: /assets/images/gallery_ulsan_machines_3.jpg
   - image_path: /assets/images/gallery_ulsan_machines_4.jpg
     alt: "BF-D160"
@@ -34,6 +34,11 @@ gallery_feature:
     title: "BF-INSSE"
     excerpt: "가공범위 : 10000*4000*1700<br>수량 : 1<br>제조회사 : SCHIESS"
     url: /assets/images/gallery_ulsan_machines_6.jpg
+  - image_path: /assets/images/gallery_ulsan_machines_7.jpg
+    alt: "라디알 드릴머신(대)"
+    title: "라디알 드릴머신(대)"
+    excerpt: "가공범위 : 2000 * 4000<br>수량 : 1<br>제조회사 : (주)봉신"
+    url: /assets/images/gallery_ulsan_machines_7.jpg
 ---
 
 주소 : 울산광역시 북구 매곡산업1길 25(매곡동 354-5)  

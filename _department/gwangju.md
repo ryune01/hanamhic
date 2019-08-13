@@ -17,32 +17,32 @@ gallery_feature_materials:
   - image_path: /assets/images/gallery_gwangju_machine_materials_3.jpg
     alt: "BAND SAW(중)"
     title: "BAND SAW(중)"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 1<br>제조회사 : 우성산업"
+    excerpt: "가공범위 : 520 * 520<br>수량 : 1<br>제조회사 : 우성산업"
     url: /assets/images/gallery_gwangju_machine_materials_3.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_4.jpg
     alt: "BAND SAW(중)"
     title: "BAND SAW(중)"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 2<br>제조회사 : 우성산업"
+    excerpt: "가공범위 : 500 * 500<br>수량 : 2<br>제조회사 : 우성산업"
     url: /assets/images/gallery_gwangju_machine_materials_4.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_5.jpg
     alt: "BAND SAW(소)"
     title: "BAND SAW(소)"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 1<br>제조회사 : 우성산업"
+    excerpt: "가공범위 : 450 * 450<br>수량 : 1<br>제조회사 : 우성산업"
     url: /assets/images/gallery_gwangju_machine_materials_5.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_6.jpg
     alt: "7호 밀링"
     title: "7호 밀링"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 1<br>제조회사 : (주)봉신"
+    excerpt: "가공범위 : 750 * 2700<br>수량 : 1<br>제조회사 : 기흥기계"
     url: /assets/images/gallery_gwangju_machine_materials_6.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_7.jpg
     alt: "6호 밀링"
     title: "6호 밀링"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 1<br>제조회사 : (주)봉신"
+    excerpt: "가공범위 : 550 * 2000<br>수량 : 1<br>제조회사 : 기흥기계"
     url: /assets/images/gallery_gwangju_machine_materials_7.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_8.jpg
     alt: "5호 밀링"
     title: "5호 밀링"
-    excerpt: "가공범위 : 1750 * 3000<br>수량 : 2<br>제조회사 : (주)봉신"
+    excerpt: "가공범위 : 450 * 1800<br>수량 : 2<br>제조회사 : 두산"
     url: /assets/images/gallery_gwangju_machine_materials_8.jpg
   - image_path: /assets/images/gallery_gwangju_machine_materials_9.jpg
     alt: "밀링기(플래너)"
@@ -97,7 +97,7 @@ gallery_feature_materials:
 gallery_feature_nc:
   - image_path: /assets/images/gallery_gwangju_machine_cnc_1.jpg
     alt: "RB45M 5면가공기"
-    title: "로타리 연마기(대)"
+    title: "RB45M 5면가공기"
     excerpt: "가공범위 : 2800 * 6000<br>수량 : 1<br>제조회사 : 현대중공업"
     url: /assets/images/gallery_gwangju_machine_cnc_1.jpg
   - image_path: /assets/images/gallery_gwangju_machine_cnc_2.jpg
@@ -108,12 +108,12 @@ gallery_feature_nc:
   - image_path: /assets/images/gallery_gwangju_machine_cnc_3.jpg
     alt: "CNC 밀링 M/C (8호기)"
     title: "CNC 밀링 M/C (8호기)"
-    excerpt: "가공범위 : 800 * 2000<br>수량 : 1<br>제조회사 : 화천기계공업(주)"
+    excerpt: "가공범위 : 800 * 2000<br>수량 : 1<br>제조회사 : (주)화천기공"
     url: /assets/images/gallery_gwangju_machine_cnc_3.jpg
   - image_path: /assets/images/gallery_gwangju_machine_cnc_4.jpg
     alt: " CNC 밀링 M/C (12호기)"
     title: " CNC 밀링 M/C (12호기)"
-    excerpt: "가공범위 : 1500 * 2500<br>수량 : 1<br>제조회사 : 화천기계공업(주)"
+    excerpt: "가공범위 : 1500 * 2500<br>수량 : 1<br>제조회사 : (주)화천기공"
     url: /assets/images/gallery_gwangju_machine_cnc_4.jpg
   - image_path: /assets/images/gallery_gwangju_machine_cnc_5.jpg
     alt: "5면 MC MVR35-FM"
