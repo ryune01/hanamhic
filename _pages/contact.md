@@ -4,17 +4,8 @@ layout: single
 classes: wide
 permalink: /contact/
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
-#header:
-#  image: /assets/images/unsplash-gallery-image-1.jpg
-#  teaser: assets/images/unsplash-gallery-image-1-th.jpg
-# sidebar:
-#   - title: "Role"
-#     image: http://placehold.it/350x250
-#     image_alt: "logo"
-#     text: "Designer, Front-End Developer"
-#   - title: "Responsibilities"
-#     text: "Reuters try PR stupid commenters should isn't a business model"
-
+sidebar:
+  nav: "about"
 ---
 
 ---

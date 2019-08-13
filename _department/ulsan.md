@@ -1,64 +1,55 @@
 ---
+classes: wide
 title: "울산 지사"
 excerpt: "How the theme is organized and what all of the files are for."
-last_modified_at: 2018-03-20T15:19:22-04:00
+gallery_feature:
+  - image_path: /assets/images/gallery_ulsan_machines_1.jpg
+    alt: "HF-6M 5면가공기"
+    title: "HF-6M 5면가공기"
+    excerpt: "가공범위 : 6000*3500*3500<br>수량 : 1<br>제조회사 : SNK"
+    url: /assets/images/gallery_ulsan_machines_1.jpg
+    btn_class: "btn--light-outline"
+  - image_path: /assets/images/gallery_ulsan_machines_2.jpg
+    alt: "HF-10M 5면가공기"
+    title: "HF-10M 5면가공기"
+    excerpt: "가공범위 : 14000*5800*5000<br>수량 : 1<br>제조회사 : SNK"
+    url: /assets/images/gallery_ulsan_machines_2.png
+  - image_path: /assets/images/gallery_ulsan_machines_3.jpg
+    alt: "라디알 드릴머신(대)"
+    title: "라디알 드릴머신(대)"
+    excerpt: "가공범위 : 2000 * 4000<br>수량 : 1<br>제조회사 : (주)봉신"
+    url: /assets/images/gallery_ulsan_machines_3.jpg
+  - image_path: /assets/images/gallery_ulsan_machines_4.jpg
+    alt: "BF-D160"
+    title: "BF-D160"
+    excerpt: "가공범위 : 10000*4000*1700<br>수량 : 1<br>제조회사 : SCHIESS"
+    url: /assets/images/gallery_ulsan_machines_4.jpg
+  - image_path: /assets/images/gallery_ulsan_machines_5.jpg
+    alt: "XH-2640"
+    title: "XH-2640"
+    excerpt: "가공범위 : 24000*4000*4200<br>수량 : 1<br>제조회사 : SCHIESS"
+    url: /assets/images/gallery_ulsan_machines_5.jpg
+  - image_path: /assets/images/gallery_ulsan_machines_6.jpg
+    alt: "BF-INSSE"
+    title: "BF-INSSE"
+    excerpt: "가공범위 : 10000*4000*1700<br>수량 : 1<br>제조회사 : SCHIESS"
+    url: /assets/images/gallery_ulsan_machines_6.jpg
 ---
 
 주소 : 울산광역시 북구 매곡산업1길 25(매곡동 354-5)  
 전화 : **[052-292-6066](tel:062-955-2244)**  
 팩스 : **[052-292-5066](tel:062-955-3367)**  
-부지 : 대지 2200평 건평 1500평  
+부지 : **대지 2200평 건평 1500평**  
 {: .notice--info}
 
+## 울산지사 NC사업부
+### 사업부 설비 소개
+{% include gallery_feature %}
 
-Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
-
-**Please note:** If you installed Minimal Mistakes via the Ruby Gem method, theme files like `_layouts`, `_includes`, `_sass`, and `/assets/` will be missing. This is normal as they are bundled with the [`minimal-mistakes-jekyll`](https://rubygems.org/gems/minimal-mistakes-jekyll) Ruby gem.
-{: .notice--info}
-
-```bash
-minimal-mistakes
-├── _data                      # data files for customizing the theme
-|  ├── navigation.yml          # main navigation links
-|  └── ui-text.yml             # text used throughout the theme's UI
-├── _includes
-|  ├── analytics-providers     # snippets for analytics (Google and custom)
-|  ├── comments-providers      # snippets for comments
-|  ├── footer                  # custom snippets to add to site footer
-|  ├── head                    # custom snippets to add to site head
-|  ├── feature_row             # feature row helper
-|  ├── gallery                 # image gallery helper
-|  ├── group-by-array          # group by array helper for archives
-|  ├── nav_list                # navigation list helper
-|  ├── toc                     # table of contents helper
-|  └── ...
-├── _layouts
-|  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
-|  ├── archive.html            # archive base
-|  ├── categories.html         # archive listing posts grouped by category
-|  ├── category.html           # archive listing posts grouped by specific category
-|  ├── collection.html         # archive listing documents in a specific collection
-|  ├── compress.html           # compresses HTML in pure Liquid
-|  ├── default.html            # base for all other layouts
-|  ├── home.html               # home page
-|  ├── posts.html              # archive listing posts grouped by year
-|  ├── search.html             # search page
-|  ├── single.html             # single document (post/page/etc)
-|  ├── tag.html                # archive listing posts grouped by specific tag
-|  ├── tags.html               # archive listing posts grouped by tags
-|  └── splash.html             # splash page
-├── _sass                      # SCSS partials
-├── assets
-|  ├── css
-|  |  └── main.scss            # main stylesheet, loads SCSS partials from _sass
-|  ├── images                  # image assets for posts/pages/collections/etc.
-|  ├── js
-|  |  ├── plugins              # jQuery plugins
-|  |  ├── vendor               # vendor scripts
-|  |  ├── _main.js             # plugin settings and other scripts to load after jQuery
-|  |  └── main.min.js          # optimized and concatenated script file loaded before </body>
-├── _config.yml                # site configuration
-├── Gemfile                    # gem file dependencies
-├── index.html                 # paginated home page showing recent posts
-└── package.json               # NPM build scripts
-```
+### 주요 생산품
+> 1. 현대중공업(주) 엔진 BLOCK 가공
+2. 현대중공업(주) 산업기계 제작 가공
+3. 바르질라현대(유) 엔진 BLOCK 가공
+4. 한텍(주) 화공기기 가공
+5. 호창기공(주) 크레인기기 가공
+6. HBE 4000TON RING ROLLING 가공 등

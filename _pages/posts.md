@@ -1,5 +1,6 @@
 ---
 layout: posts
-author_profile: true
 permalink: /posts/
+sidebar:
+  nav: "about"
 ---

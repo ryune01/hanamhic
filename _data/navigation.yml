@@ -42,6 +42,10 @@ about:
       url : /department/gwangju/
     - title: "울산 지사"
       url: /department/ulsan/
+  - title: "새 소식"
+    url: /posts/
+  - title: "Contact"
+    url: /contact/
 
 # business introduction links
 business:
