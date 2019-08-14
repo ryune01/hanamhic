@@ -3,15 +3,26 @@ title: "회사 개요"
 excerpt: "How the theme is organized and what all of the files are for."
 last_modified_at: 2018-03-20T15:19:22-04:00
 gallery_certification:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+  - url: /assets/images/iso_9001_ia_kr.jpg
+    image_path: /assets/images/iso_9001_ia_kr.jpg
+    title: "ISO 9001 품질경영시스템 인증"
+    alt: "ISO 9001 품질경영시스템 인증"
+  - url: /assets/images/iso_14001_ia_kr.jpg
+    image_path: /assets/images/iso_14001_ia_kr.jpg
+    title: "ISO 14001 환경경영시스템 인증"
+    alt: "ISO 14001 환경경영시스템 인증"
+  - url: /assets/images/2013_innovation_award.jpg
+    image_path: /assets/images/2013_innovation_award.jpg
+    title: "2013 중소기업 혁신대상"
+    alt: "2013 중소기업 혁신대상"
+  - url: /assets/images/mainbiz.jpg
+    image_path: /assets/images/mainbiz.jpg
+    title: "경영혁신형 중소기업(MAIN-BIZ) 확인서"
+    alt: "경영혁신형 중소기업(MAIN-BIZ) 확인서"
+  - url: /assets/images/iso_14001_ia_kr.jpg
+    image_path: /assets/images/iso_14001_ia_kr.jpg
+    title: "연구개발전담부서 인정서"
+    alt: "연구개발전담부서 인정서"
 ---
 
 ---
@@ -30,4 +41,4 @@ gallery_certification:
 ### 인증서
 ---
 
-{% include gallery id="gallery_certification" caption="당사의 우수한 품질 관리를 인증하는 각종 인증서." %}
+{% include gallery id="gallery_certification" caption="경영, 제품 생산등 전 분야에 걸쳐 엄격한 품질관리를 위해 힘쓰고 있습니다." %}
