@@ -107,17 +107,17 @@ analytics:
 # Site Author
 author:
   name             : "Hanam Heavey Industry"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Gwangju, Korea, republic of"
+  avatar           : "/assets/images/hanamhic_logo_korean.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "초대형 MC/CNC 명가"
+  location         : "Gwangju/Ulsan, Korea, republic of"
   email            : "ha9298@hanmail.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:ha9298@hanmail.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://hanamhic.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -130,6 +130,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Tel"
+      icon: "fas fa-phone"
+      url: "tel:062-952-2244"
+    - label: "Fax"
+      icon: "fas fa-fax"
+      url: "tel:062-952-2244"
 
 # Site Footer
 footer:
@@ -292,11 +298,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: #true
+      author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: true
+      share: false
       related: true
+      sidebar:
+        nav: ""
   # _pages
   - scope:
       path: "_pages"

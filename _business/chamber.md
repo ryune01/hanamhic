@@ -5,27 +5,33 @@ classes:
 title: "LCD 챔버 가공 사업"
 excerpt: "How the theme is organized and what all of the files are for."
 layouts_gallery:
-  - url: /assets/images/gallery_plant_1.jpg
-    image_path: /assets/images/small/gallery_plant_1.jpg
-    alt: "gallery_plant_1"
-  - url: /assets/images/gallery_plant_2.jpg
-    image_path: /assets/images/small/gallery_plant_2.jpg
-    alt: "gallery_plant_2"
-  - url: /assets/images/gallery_plant_3.jpg
-    image_path: /assets/images/small/gallery_plant_3.jpg
-    alt: "gallery_plant_3"
-  - url: /assets/images/gallery_plant_4.jpg
-    image_path: /assets/images/small/gallery_plant_4.jpg
-    alt: "gallery_plant_4"
-  - url: /assets/images/gallery_plant_5.jpg
-    image_path: /assets/images/small/gallery_plant_5.jpg
-    alt: "gallery_plant_5"
-  - url: /assets/images/gallery_plant_6.jpg
-    image_path: /assets/images/small/gallery_plant_6.jpg
-    alt: "gallery_plant_6"
+  - url: /assets/images/gallery_chamber_1.jpg
+    image_path: /assets/images/small/gallery_chamber_1.jpg
+    title: "SPUTTER 챔버"
+    alt: "SPUTTER 챔버"
+  - url: /assets/images/gallery_chamber_2.jpg
+    image_path: /assets/images/small/gallery_chamber_2.jpg
+    title: "세정 장비 FRAME"
+    alt: "세정 장비 FRAME"
+  - url: /assets/images/gallery_chamber_3.jpg
+    image_path: /assets/images/small/gallery_chamber_3.jpg
+    title: "내측 챔버"
+    alt: "내측 챔버"
+  - url: /assets/images/gallery_chamber_4.jpg
+    image_path: /assets/images/small/gallery_chamber_4.jpg
+    title: "AC, CATHODE 챔버"
+    alt: "AC, CATHODE 챔버"
+  - url: /assets/images/gallery_chamber_5.jpg
+    image_path: /assets/images/small/gallery_chamber_5.jpg
+    title: "6세대 챔버"
+    alt: "6세대 챔버"
+  - url: /assets/images/gallery_chamber_6.jpg
+    image_path: /assets/images/small/gallery_chamber_6.jpg
+    title: "7세대 가열실 본체"
+    alt: "7세대 가열실 본체"
 ---
 
-{% include figure image_path="/assets/images/cover_materials.jpg" alt="this is a placeholder image" %}
+{% include figure image_path="/assets/images/cover_chamber.jpg" alt="this is a placeholder image" %}
 
 오랜 기간 축적된 가공 기술을 바탕으로 5세대 챔버 가공 사업부터 참여해 최근의 8세대 챔버까지 가공해 냄으로써 LCD 챔버 가공사업의 선두주자로 나아가고 있습니다.
 
