@@ -2,5 +2,5 @@
 layout: posts
 permalink: /posts/
 sidebar:
-  nav: "about"
+  nav: "main"
 ---

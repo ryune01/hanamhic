@@ -1,6 +1,6 @@
 ---
 title: "조직도 및 부서 소개"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /about/organization/
 ---
 
 ---

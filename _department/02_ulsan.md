@@ -1,7 +1,7 @@
 ---
 classes: wide
 title: "울산 지사"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /department/ulsan/
 gallery_feature:
   - image_path: /assets/images/small/gallery_ulsan_machines_1.jpg
     alt: "HF-6M 5면가공기"
@@ -38,6 +38,7 @@ gallery_feature:
 ---
 
 주소 : 울산광역시 북구 매곡산업1길 25(매곡동 354-5)  
+사업자 등록번호 : 620-85-11822  
 전화 : **[052-292-6066](tel:062-955-2244)**  
 팩스 : **[052-292-5066](tel:062-955-3367)**  
 부지 : **대지 2200평 건평 1500평**  

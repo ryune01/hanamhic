@@ -5,11 +5,11 @@ classes: wide
 permalink: /contact/
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 sidebar:
-  nav: "about"
+  nav: "main"
 ---
 
 ---
-# 아래 연락처로 하남중공업으로 연락해 주세요.
+# 아래 연락처로 하남중공업으로 연락, 방문하실 수 있습니다.
 
 ## 광주 본사 사무실
 ### 유선 연락처
@@ -75,7 +75,7 @@ sidebar:
 
 ## 온라인
 메일 주소 : **<ha9298@hanmail.net>**
->아래 폼을 통해서 직접 메일을 보낼 수도 있습니다.
+>아래 폼을 통해서 {{ site.email }} 으로 직접 메일을 보낼 수도 있습니다.
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="작성자 이름" /></div>

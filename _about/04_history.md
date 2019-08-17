@@ -1,7 +1,7 @@
 ---
 classes: wide
 title: "회사 연혁"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /about/history/
 ---
 
 ---

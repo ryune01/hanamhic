@@ -1,9 +1,7 @@
 ---
-classes: 
-  - wide
-  - dark-theme
+classes: wide
 title: "원자재 가공 및 판매 사업"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /business/materials/
 layouts_gallery:
   - url: /assets/images/gallery_materials_1.jpg
     image_path: /assets/images/small/gallery_materials_1.jpg

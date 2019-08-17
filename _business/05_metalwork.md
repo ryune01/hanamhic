@@ -1,9 +1,7 @@
 ---
-classes: 
-  - wide
-  - dark-theme
+classes: wide
 title: "다양한 산업기계 가공"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /business/metalwork/
 layouts_gallery:
   - url: /assets/images/gallery_metalwork_1.jpg
     image_path: /assets/images/small/gallery_metalwork_1.jpg

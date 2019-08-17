@@ -1,7 +1,6 @@
 ---
 title: "회사 개요"
-excerpt: "How the theme is organized and what all of the files are for."
-last_modified_at: 2018-03-20T15:19:22-04:00
+permalink: /about/outline/
 gallery_certification:
   - url: /assets/images/iso_9001_ia_kr.jpg
     image_path: /assets/images/iso_9001_ia_kr.jpg
@@ -32,7 +31,7 @@ gallery_certification:
 
 ---
 
-{% include nav_list nav="business" %}
+{% include nav_list nav="business_list" %}
 
 ### 거래 업체
 ---

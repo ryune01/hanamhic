@@ -1,6 +1,6 @@
 ---
 title: "경영 이념"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /about/management_philosophy/
 ---
 
 ---

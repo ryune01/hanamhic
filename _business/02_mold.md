@@ -1,7 +1,7 @@
 ---
 classes: wide
 title: "금형 가공 사업"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /business/mold/
 layouts_gallery:
   - url: /assets/images/gallery_mold_1.jpg
     image_path: /assets/images/small/gallery_mold_1.jpg

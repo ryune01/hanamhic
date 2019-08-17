@@ -1,7 +1,7 @@
 ---
 classes: wide
 title: "조선 플랜트 가공 사업"
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /business/plant/
 layouts_gallery:
   - url: /assets/images/gallery_plant_1.jpg
     image_path: /assets/images/small/gallery_plant_1.jpg

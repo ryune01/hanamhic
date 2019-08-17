@@ -1,8 +1,8 @@
 ---
-layout: single
 classes: wide
+layout: single
 title: "광주 본사"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /department/gwangju/
 gallery_feature_materials:
   - image_path: /assets/images/small/gallery_gwangju_machine_materials_1.jpg
     alt: "라디알 드릴머신(소)"
@@ -128,6 +128,7 @@ gallery_feature_nc:
 ---
 
 주소 : 광주광역시 광산구 진곡산단중앙로 114번길 (사무실 : 지티엠 주식회사 사무실 건물 안)  
+사업자 등록번호 : 409-81-59764  
 전화 : **[062-952-2244](tel:062-955-2244)**  
 팩스 : **[062-952-3367](tel:062-955-3367)**  
 {: .notice--info}
