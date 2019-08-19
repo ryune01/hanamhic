@@ -92,7 +92,7 @@ $(document).ready(function() {
       events: true // if true, emit custom events
     });
   }
-  
+
   // add lightbox class to all image links
   $(
     "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']"
@@ -132,4 +132,37 @@ $(document).ready(function() {
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+
+  $('.page-popup').magnificPopup({
+    type: 'ajax',
+    alignTop: true,
+    overflowY: 'scroll', // as we know that popup content is tall we set scroll overflow by default to avoid jump
+    closeBtnInside: true,
+    removalDelay: 500,
+    mainClass: "my-mfp-zoom-in",
+    ajax: {
+      settings: null, // Ajax settings object that will extend default one - http://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
+      // For example:
+      // settings: {cache:false, async:false}
+    
+      cursor: 'mfp-ajax-cur', // CSS class that will be added to body during the loading (adds "progress" cursor)
+      tError: '<a href="%url%">The content</a> could not be loaded.' //  Error message, can contain %curr% and %total% tags if gallery is enabled
+    }
+  });
+
+  $('.popup-with-zoom-anim').magnificPopup({
+		type: 'inline',
+
+		fixedContentPos: false,
+		fixedBgPos: true,
+
+		overflowY: 'auto',
+
+		closeBtnInside: true,
+		preloader: false,
+		
+		midClick: true,
+		removalDelay: 300,
+		mainClass: 'my-mfp-zoom-in'
+	});
 });
