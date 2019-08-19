@@ -75,7 +75,7 @@ sidebar:
 
 ## 온라인
 메일 주소 : **<ha9298@hanmail.net>**
->아래 폼을 통해서 {{ site.email }} 으로 직접 메일을 보낼 수도 있습니다.
+>아래 폼을 통해서 직접 메일을 보낼 수도 있습니다.
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="작성자 이름" /></div>
