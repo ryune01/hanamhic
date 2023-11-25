@@ -18,7 +18,7 @@ sidebar:
 {: .notice--info}
 ---
 ### 찾아오시는 길
->광주광역시 광산구 진곡산단중앙로 114번길 (지티엠 주식회사 건물 안)
+>광주광역시 광산구 진곡산단중앙로 114 (오선동)
 <div class="mobile_map">
   <!-- * 카카오맵 - 지도퍼가기 -->
   <!-- 1. 지도 노드 -->
@@ -74,7 +74,7 @@ sidebar:
 </div>
 
 ## 온라인
-메일 주소 : **<ha9298@hanmail.net>**
+메일 주소 : **<hn9298@hanmail.net>**
 >아래 폼을 통해서 직접 메일을 보낼 수도 있습니다.
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
